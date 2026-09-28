@@ -1,0 +1,21 @@
+#include <winver.h>
+1 24 "app.manifest"
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 0,1,0,0
+PRODUCTVERSION 0,1,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040a04b0"
+    BEGIN
+      VALUE "FileDescription", "VR32X Track Editor"
+      VALUE "ProductName", "VR32X Track Editor"
+      VALUE "FileVersion", "0.1"
+      VALUE "ProductVersion", "0.1"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x040a, 1200
+  END
+END

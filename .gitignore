@@ -1,0 +1,6 @@
+build/
+*.32x
+*.bin
+*.obj
+*.mtl
+!docs/**
